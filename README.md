@@ -38,7 +38,7 @@ A web-based implementation of the classic Simon memory game. Challenge yourself 
 ## 🧑‍💻 Author
 **Siba Sundar Das**  
 🔗 [GitHub](https://github.com/sibasundardas)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sibasundardas)
+🔗 [LinkedIn](https://www.linkedin.com/in/siba-sundar-das)
 
 ## Contributing
 
